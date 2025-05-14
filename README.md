@@ -23,7 +23,7 @@ Here're some of the project's best features:
 <p>1. Clone the repository:</p>
 
 ```
-git clone https://github.com/deepak-3693/PRODIGY_CS_01.git cd caesar-cipher-gui
+git clone https://github.com/deepak-3693/PRODIGY_CS_01.git cd PRODIGY_CS_01
 ```
 
 <p>2. Run the script: Ensure you have Python installed then run:</p>
