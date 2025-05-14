@@ -29,7 +29,7 @@ git clone https://github.com/deepak-3693/PRODIGY_CS_01.git cd PRODIGY_CS_01
 <p>2. Run the script: Ensure you have Python installed then run:</p>
 
 ```
-python3 caesar_cipher_gui.py
+python caesar_cipher_gui.py
 ```
 
 
