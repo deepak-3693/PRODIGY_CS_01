@@ -1,18 +1,11 @@
 <h1 align="center" id="title">🔐 Caesar Cipher GUI Tool</h1>
 
-<p align="center"><img src="<img src=" https:="" socialify.git.ci="" deepak-3693="" prodigy_cs_01="" image?language="1&amp;owner=1&amp;name=1&amp;stargazers=1&amp;theme=Light&quot;" alt="PRODIGY_CS_01" width="640" height="320">" alt="project-image"/&gt;</p>
+<p align="center"><img src="https://socialify.git.ci/deepak-3693/PRODIGY_CS_01/image?font=Rokkitt&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Signal&amp;stargazers=1&amp;theme=Auto" alt="project-image"></p>
 
 <p id="description">The Caesar Cipher is one of the most basic forms of encryption where each letter in the plaintext is shifted by a certain number of positions in the alphabet. This tool provides a GUI that allows users to easily apply the cipher on any text by specifying a shift value. Whether you're interested in cryptography or just want to explore encryption methods this project is a great starting point!</p>
 
 <p align="center"><img src="https://img.shields.io/badge/build_with-python-green" alt="shields"><img src="https://img.shields.io/badge/first_task-completed-green" alt="shields"></p>
 
-<h2>Project Screenshots:</h2>
-
-<img src="https://drive.google.com/file/d/1fDkq1CK_0x71FU0QuaWO9R-GVFIm247A/view?usp=drive_link" alt="project-screenshot" width="500" height="500/">
-
-<img src="https://drive.google.com/file/d/10QwYH0BTPUrjQe9cPGAcr1-EOZwG3QDI/view?usp=drive_link" alt="project-screenshot" width="500" height="500/">
-
-<img src="https://drive.google.com/file/d/14EAK_IR7oFACLjJvqdKUtRmau3RPhyYk/view?usp=drive_link" alt="project-screenshot" width="500" height="500/">
 
   
   
@@ -39,8 +32,9 @@ git clone https://github.com/deepak-3693/PRODIGY_CS_01.git cd caesar-cipher-gui
 python3 caesar_cipher_gui.py
 ```
 
+<h2>🍰 Contribution Guidelines:</h2>
 
- 
+  
   
 <h2>💻 Built with</h2>
 
