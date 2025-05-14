@@ -32,7 +32,6 @@ git clone https://github.com/deepak-3693/PRODIGY_CS_01.git cd caesar-cipher-gui
 python3 caesar_cipher_gui.py
 ```
 
-<h2>🍰 Contribution Guidelines:</h2>
 
   
   
